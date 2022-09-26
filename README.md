@@ -1,1 +1,1 @@
-Koa Calloway's User Page
+Go is fun for the whole family.
