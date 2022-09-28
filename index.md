@@ -36,14 +36,14 @@ Technologies used:
 - iptables
 - React
 
-## [kovenant](https://github.com/keysight-kcos/kovenant): Plug-and-play cluster-monitoring setup that combines higher-level metrics gathered via Prometheus with lower-level metrics gathered via Tetragon.
+## [kovenant](https://github.com/keysight-kcos/kovenant): Plug-and-play cluster-monitoring setup that combines higher-level metrics gathered via Prometheus with lower-level metrics gathered via eBPF/Tetragon.
 
 Technologies used:
 - Kubernetes
 - Helm
 - eBPF/Tetragon
-- Telegraf, InfluxDB, Grafana
-- Prometheus
+- Telegraf, InfluxDB, Grafana, Prometheus
+- Python
 
 Other notes: 
 - Worked with Agile/Jira
